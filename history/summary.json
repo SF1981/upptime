@@ -4,18 +4,20 @@
     "url": "https://www.bada-bar.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.bada-bar.fr.ico",
     "slug": "bada-bar-www",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "84.63%",
+    "uptimeDay": "84.63%",
+    "uptimeWeek": "84.63%",
+    "uptimeMonth": "84.63%",
+    "uptimeYear": "84.63%",
     "time": 1696,
     "timeDay": 1696,
     "timeWeek": 1696,
     "timeMonth": 1696,
     "timeYear": 1696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-28": 1
+    }
   },
   {
     "name": "Bada Bar (apex)",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 808,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "time": 1029,
+    "timeDay": 1029,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1452,
-    "timeDay": 1452,
-    "timeWeek": 1452,
-    "timeMonth": 1452,
-    "timeYear": 1452,
+    "time": 1829,
+    "timeDay": 1829,
+    "timeWeek": 1829,
+    "timeMonth": 1829,
+    "timeYear": 1829,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1399,
-    "timeDay": 1399,
-    "timeWeek": 1399,
-    "timeMonth": 1399,
-    "timeYear": 1399,
+    "time": 1930,
+    "timeDay": 1930,
+    "timeWeek": 1930,
+    "timeMonth": 1930,
+    "timeYear": 1930,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bada-club.fr.ico",
     "slug": "bada-club",
     "status": "down",
-    "uptime": "49.55%",
-    "uptimeDay": "49.55%",
-    "uptimeWeek": "49.55%",
-    "uptimeMonth": "49.55%",
-    "uptimeYear": "49.55%",
-    "time": 25,
-    "timeDay": 25,
-    "timeWeek": 25,
-    "timeMonth": 25,
-    "timeYear": 25,
+    "uptime": "4.79%",
+    "uptimeDay": "4.79%",
+    "uptimeWeek": "4.79%",
+    "uptimeMonth": "4.79%",
+    "uptimeYear": "4.79%",
+    "time": 23,
+    "timeDay": 23,
+    "timeWeek": 23,
+    "timeMonth": 23,
+    "timeYear": 23,
     "dailyMinutesDown": {
-      "2026-05-28": 0
+      "2026-05-28": 4
     }
   }
 ]
