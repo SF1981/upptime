@@ -13,7 +13,7 @@ sites:
   - name: Sortir Lyon
     url: https://www.sortir-lyon.com
   - name: Bada Club
-    url: https://www.bada-club.fr
+    url: https://bada-club.fr
 
 assignees:
   - SF1981
