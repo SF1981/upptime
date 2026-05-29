@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bada-bar.fr.ico",
     "slug": "bada-bar-www",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "97.87%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "97.87%",
     "time": 1214,
     "timeDay": 1214,
     "timeWeek": 1214,
     "timeMonth": 1214,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2026-05-28": 0
+      "2026-05-29": 5,
+      "2026-05-28": 12
     }
   },
   {
@@ -24,18 +25,20 @@
     "url": "https://bada-bar.fr",
     "icon": "https://icons.duckduckgo.com/ip3/bada-bar.fr.ico",
     "slug": "bada-bar-apex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 507,
     "timeDay": 507,
     "timeWeek": 507,
     "timeMonth": 507,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-29": 0
+    }
   },
   {
     "name": "Bus Paradise",
@@ -48,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 994,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1745,
-    "timeDay": 1745,
-    "timeWeek": 1745,
-    "timeMonth": 1745,
-    "timeYear": 1745,
+    "time": 1683,
+    "timeDay": 1683,
+    "timeWeek": 1683,
+    "timeMonth": 1683,
+    "timeYear": 1683,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1943,
-    "timeDay": 1943,
-    "timeWeek": 1943,
-    "timeMonth": 1943,
-    "timeYear": 1943,
+    "time": 1968,
+    "timeDay": 1968,
+    "timeWeek": 1968,
+    "timeMonth": 1968,
+    "timeYear": 1968,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 378,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "time": 585,
+    "timeDay": 585,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   }
 ]
