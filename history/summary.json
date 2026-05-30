@@ -4,12 +4,12 @@
     "url": "https://www.bada-bar.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.bada-bar.fr.ico",
     "slug": "bada-bar-www",
-    "status": "up",
-    "uptime": "72.79%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "72.79%",
-    "uptimeMonth": "72.79%",
-    "uptimeYear": "72.79%",
+    "status": "down",
+    "uptime": "75.24%",
+    "uptimeDay": "73.57%",
+    "uptimeWeek": "75.24%",
+    "uptimeMonth": "75.24%",
+    "uptimeYear": "75.24%",
     "time": 898,
     "timeDay": 672,
     "timeWeek": 898,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-05-29": 433,
       "2026-05-28": 12,
-      "2026-05-30": 315
+      "2026-05-30": 316
     }
   },
   {
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bada-bar.fr.ico",
     "slug": "bada-bar-apex",
     "status": "up",
-    "uptime": "76.22%",
+    "uptime": "78.39%",
     "uptimeDay": "79.12%",
-    "uptimeWeek": "76.22%",
-    "uptimeMonth": "76.22%",
-    "uptimeYear": "76.22%",
+    "uptimeWeek": "78.39%",
+    "uptimeMonth": "78.39%",
+    "uptimeYear": "78.39%",
     "time": 779,
     "timeDay": 1425,
     "timeWeek": 779,
