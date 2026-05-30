@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bada-bar.fr.ico",
     "slug": "bada-bar-www",
     "status": "down",
-    "uptime": "73.71%",
-    "uptimeDay": "67.49%",
-    "uptimeWeek": "73.71%",
-    "uptimeMonth": "73.71%",
-    "uptimeYear": "73.71%",
+    "uptime": "70.51%",
+    "uptimeDay": "57.34%",
+    "uptimeWeek": "70.51%",
+    "uptimeMonth": "70.51%",
+    "uptimeYear": "70.51%",
     "time": 829,
     "timeDay": 609,
     "timeWeek": 829,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-05-29": 433,
       "2026-05-28": 12,
-      "2026-05-30": 403
+      "2026-05-30": 549
     }
   },
   {
@@ -26,20 +26,20 @@
     "url": "https://bada-bar.fr",
     "icon": "https://icons.duckduckgo.com/ip3/bada-bar.fr.ico",
     "slug": "bada-bar-apex",
-    "status": "down",
-    "uptime": "79.41%",
-    "uptimeDay": "79.11%",
-    "uptimeWeek": "79.41%",
-    "uptimeMonth": "79.41%",
-    "uptimeYear": "79.41%",
-    "time": 779,
-    "timeDay": 1425,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "status": "up",
+    "uptime": "75.97%",
+    "uptimeDay": "68.97%",
+    "uptimeWeek": "75.97%",
+    "uptimeMonth": "75.97%",
+    "uptimeYear": "75.97%",
+    "time": 1058,
+    "timeDay": 1860,
+    "timeWeek": 1058,
+    "timeMonth": 1058,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2026-05-29": 363,
-      "2026-05-30": 301
+      "2026-05-30": 447
     }
   },
   {
