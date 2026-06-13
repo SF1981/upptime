@@ -1,7 +1,7 @@
 url: https://www.bati-renovation.com
-status: up
-code: 200
-responseTime: 59824
-lastUpdated: 2026-06-13T14:33:51.466Z
+status: down
+code: 503
+responseTime: 465
+lastUpdated: 2026-06-13T22:51:09.435Z
 startTime: 2026-05-28T11:01:29.717Z
 generator: Upptime <https://github.com/upptime/upptime>
