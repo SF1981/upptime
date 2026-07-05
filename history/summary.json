@@ -30,11 +30,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bada-bar.fr.ico",
     "slug": "bada-bar-apex",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.57%",
     "time": 581,
     "timeDay": 1115,
     "timeWeek": 569,
@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bati-renovation.com.ico",
     "slug": "batirenove",
     "status": "down",
-    "uptime": "79.28%",
-    "uptimeDay": "94.52%",
+    "uptime": "79.24%",
+    "uptimeDay": "92.48%",
     "uptimeWeek": "83.89%",
-    "uptimeMonth": "78.13%",
-    "uptimeYear": "79.28%",
+    "uptimeMonth": "78.06%",
+    "uptimeYear": "79.24%",
     "time": 2637,
     "timeDay": 1152,
     "timeWeek": 1765,
@@ -116,7 +116,7 @@
       "2026-07-02": 492,
       "2026-07-03": 309,
       "2026-07-04": 162,
-      "2026-07-05": 0
+      "2026-07-05": 29
     }
   },
   {
