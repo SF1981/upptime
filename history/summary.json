@@ -71,17 +71,17 @@
     "url": "https://www.bati-renovation.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bati-renovation.com.ico",
     "slug": "batirenove",
-    "status": "down",
-    "uptime": "86.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "86.00%",
-    "time": 2236,
-    "timeDay": 1472,
-    "timeWeek": 1415,
-    "timeMonth": 1389,
-    "timeYear": 2236,
+    "status": "up",
+    "uptime": "85.98%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "85.98%",
+    "time": 2234,
+    "timeDay": 1503,
+    "timeWeek": 1424,
+    "timeMonth": 1392,
+    "timeYear": 2234,
     "dailyMinutesDown": {
       "2026-05-31": 76,
       "2026-06-02": 559,
@@ -135,7 +135,7 @@
       "2026-07-31": 251,
       "2026-08-04": 131,
       "2026-08-05": 380,
-      "2026-08-08": 0
+      "2026-08-08": 29
     }
   },
   {
