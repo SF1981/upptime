@@ -148,17 +148,17 @@
     "url": "https://www.sortir-lyon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sortir-lyon.com.ico",
     "slug": "sortir-lyon",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.56%",
-    "time": 2181,
-    "timeDay": 1377,
-    "timeWeek": 1702,
-    "timeMonth": 1880,
-    "timeYear": 2181,
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.54%",
+    "time": 2182,
+    "timeDay": 1545,
+    "timeWeek": 1736,
+    "timeMonth": 1887,
+    "timeYear": 2182,
     "dailyMinutesDown": {
       "2026-05-31": 153,
       "2026-06-09": 151,
@@ -178,7 +178,7 @@
       "2026-08-12": 77,
       "2026-08-14": 34,
       "2026-08-15": 23,
-      "2026-08-16": 0
+      "2026-08-16": 23
     }
   },
   {
