@@ -12,7 +12,7 @@
     "uptimeYear": "98.77%",
     "time": 609,
     "timeDay": 717,
-    "timeWeek": 789,
+    "timeWeek": 843,
     "timeMonth": 704,
     "timeYear": 609,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.16%",
     "time": 542,
     "timeDay": 581,
-    "timeWeek": 434,
+    "timeWeek": 433,
     "timeMonth": 504,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
     "uptimeYear": "99.83%",
     "time": 1184,
     "timeDay": 7074,
-    "timeWeek": 2942,
+    "timeWeek": 3181,
     "timeMonth": 1445,
     "timeYear": 1184,
     "dailyMinutesDown": {
@@ -74,14 +74,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bati-renovation.com.ico",
     "slug": "batirenove",
     "status": "up",
-    "uptime": "92.89%",
+    "uptime": "92.92%",
     "uptimeDay": "73.46%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "92.92%",
     "time": 1993,
     "timeDay": 7185,
-    "timeWeek": 3007,
+    "timeWeek": 3252,
     "timeMonth": 1449,
     "timeYear": 1993,
     "dailyMinutesDown": {
@@ -156,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sortir-lyon.com.ico",
     "slug": "sortir-lyon",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "73.54%",
     "uptimeWeek": "96.22%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 1865,
     "timeDay": 6993,
-    "timeWeek": 2880,
+    "timeWeek": 3112,
     "timeMonth": 1398,
     "timeYear": 1865,
     "dailyMinutesDown": {
@@ -201,17 +201,19 @@
     "url": "https://bada-club.fr",
     "icon": "https://icons.duckduckgo.com/ip3/bada-club.fr.ico",
     "slug": "bada-club",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1334,
     "timeDay": 1174,
-    "timeWeek": 1145,
+    "timeWeek": 1147,
     "timeMonth": 1280,
     "timeYear": 1334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-30": 0
+    }
   }
 ]
